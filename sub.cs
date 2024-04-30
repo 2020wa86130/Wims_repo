@@ -1,5 +1,5 @@
 public (int a, intb)
 {
-  int c = a-b;
+  int d = a-b;
 }
 
